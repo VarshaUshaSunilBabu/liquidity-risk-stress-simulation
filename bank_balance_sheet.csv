@@ -1,0 +1,13 @@
+Category,Item,Amount (in Millions),Liquidity,Basel_Use
+Assets,Cash & Reserves,500,High,HQLA
+Assets,Government Bonds,1000,High,HQLA
+Assets,Interbank Loans,400,Medium,Inflow
+Assets,Customer Loans,2500,Low,RSF
+Assets,Corporate Bonds,600,Medium,RSF
+Assets,Fixed Assets,300,None,Excluded
+Liabilities,Customer Deposits,2800,Varies,Outflow
+Liabilities,Interbank Borrowing,300,Low,Outflow
+Liabilities,Short-term Debt,200,Low,Outflow
+Liabilities,Long-term Debt,800,High,ASF
+Equity,Shareholder Equity,700,Stable,Capital
+Off-Balance Sheet,Undrawn Credit Lines,400,Potential Outflow,Stress Only
